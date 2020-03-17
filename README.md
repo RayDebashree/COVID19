@@ -10,7 +10,7 @@ R (>= 3.0.1), ggplot2, tidyr, readr
 ### How to Install within R
 ```{r}
 require(devtools)
-source_url("https://github.com/RayDebashree/mvtests/blob/master/covid19plot_v1.R?raw=TRUE")
+source_url("https://github.com/RayDebashree/COVID19/blob/master/covid19plot_v1.R?raw=TRUE")
 ```
 It is recommended to download/copy the stand-alone R program in this repository, save it in your local directory of choice and `source()` it from your local directory. When a new version of the software is available, older versions may be removed from this repository, and the above `devtools::source_url()` technique may not work.
 
