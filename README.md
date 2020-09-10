@@ -18,3 +18,4 @@ It is recommended to download/copy the stand-alone R program in this repository,
 ```{r}
 covid19plot(start.date="02-01-2020", end.date=NULL, plot.variable="Confirmed", countries=c('India','US','Italy'))
 ```
+![An example](https://pbs.twimg.com/media/ETQRHixWsAE8GEP?format=jpg&name=4096x4096)
